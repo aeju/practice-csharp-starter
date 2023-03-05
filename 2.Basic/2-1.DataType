@@ -1,0 +1,19 @@
+﻿8비트 = 1바이트
+
+1. 정수형 
+- 8비트 : sbyte, byte
+- 16비트 : short, unshort
+- 32비트 : int, unint
+- 64비트 : long, unlong
+
+2. 실수형
+- 32비트 : float
+- 64비트 : double
+- 128비트 : decimal
+
+3. 문자(열)형
+- char
+- string
+
+4. 부울린형
+- bool 

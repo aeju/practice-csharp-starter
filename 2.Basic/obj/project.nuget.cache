@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2SOFxTOlPJE9p/It09fvDZdWl5U1/mFOlUQQ2jPGPgdf5vfV2WG8+z1lhoag9H6IeUYr/78gumlGpVUjuyOUA==",
+  "success": true,
+  "projectFilePath": "/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/2.Basic.csproj",
+  "expectedPackageFiles": [
+    "/Users/aeju/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
