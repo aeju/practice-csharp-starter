@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{A94F8A4F-99FF-43B2-B1AB-50EAF4AA6032}|Default">
-  <MonoDevelop.Ide.ItemProperties.Program FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Program PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Psuedo Code.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="29" />
+      <File FileName="Program.cs" Line="2" Column="43" />
+      <File FileName="Psuedo Code.cs" Line="1" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Program" expanded="True">
             <Node name="Program" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Psuedo Code.cs" selected="True" />
             </Node>
           </Node>
         </State>
