@@ -1,0 +1,15 @@
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/2.Basic.deps.json
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/2.Basic.runtimeconfig.json
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/2.Basic.runtimeconfig.dev.json
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/2.Basic.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/ref/2.Basic.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/bin/Debug/net5.0/2.Basic.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.csproj.AssemblyReference.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.AssemblyInfoInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.AssemblyInfo.cs
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.csproj.CoreCompileInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/ref/2.Basic.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/2.Basic/obj/Debug/net5.0/2.Basic.genruntimeconfig.cache
