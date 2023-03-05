@@ -1,0 +1,15 @@
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.csproj.AssemblyReference.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.AssemblyInfoInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.AssemblyInfo.cs
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.csproj.CoreCompileInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/Program.deps.json
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/Program.runtimeconfig.json
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/Program.runtimeconfig.dev.json
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/Program.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/ref/Program.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/bin/Debug/net5.0/Program.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/ref/Program.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/0. Programmer Glasses/Program/obj/Debug/net5.0/Program.genruntimeconfig.cache
