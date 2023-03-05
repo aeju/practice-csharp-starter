@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T40+v6AbjyZNuEGpvdwGxu3Fei0SHfa6Xq3ZTB2Vh3xdr272qJKBGRimNxmLklWZOiJf+ncak91YfZhIccV2hg==",
+  "success": true,
+  "projectFilePath": "/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/aeju/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

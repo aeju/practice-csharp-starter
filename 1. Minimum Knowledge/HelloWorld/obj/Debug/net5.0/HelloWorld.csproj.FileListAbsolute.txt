@@ -1,0 +1,15 @@
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/aeju/Desktop/Study/C#/C#Starter/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
